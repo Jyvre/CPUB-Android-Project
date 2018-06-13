@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CPU-B</string>
+    <string name="run_benchmark">Run benchmark</string>
+</resources>
